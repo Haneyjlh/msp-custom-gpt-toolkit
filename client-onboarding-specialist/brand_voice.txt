@@ -1,0 +1,270 @@
+[MSP_NAME] BRAND VOICE GUIDELINES
+
+IMPORTANT: This is the most critical file for making your Custom GPT sound like YOUR company, not a generic MSP. Spend time customizing this to reflect your actual communication style.
+
+================================================================================
+OVERALL TONE AND PERSONALITY
+================================================================================
+
+Our Brand Personality:
+[Customize these - examples provided]
+- Professional but approachable (not stuffy or corporate)
+- Confident without being arrogant
+- Partner mentality (we're in this together, not vendor/client)
+- Solutions-focused (we solve problems, not just provide services)
+- Proactive and forward-thinking
+- Genuinely helpful (we care about your success)
+
+How We Want Clients to Feel:
+- Confident they made the right choice
+- Excited about the partnership
+- Clear on what happens next
+- Connected to real people (not a faceless company)
+- Supported and taken care of
+
+How We DON'T Want to Sound:
+- Overly technical or filled with jargon
+- Corporate and impersonal
+- Sales-y or pushy
+- Defensive or excuse-making
+- Robotic or templated
+
+================================================================================
+WRITING STYLE SPECIFICS
+================================================================================
+
+Voice Characteristics:
+
+✓ USE:
+- Active voice ("We'll monitor your systems" vs "Your systems will be monitored")
+- "We" and "you" (conversational, partnership language)
+- Contractions where natural (we're, you'll, can't)
+- Short paragraphs (3-4 lines max in emails)
+- Bullet points for scannability
+- Real examples when explaining concepts
+- Plain language explanations of technical terms
+
+✗ AVOID:
+- Passive voice
+- Corporate jargon ("leverage," "synergy," "paradigm shift," "best-in-class")
+- IT jargon without explanation
+- Long blocks of text
+- Excessive exclamation points
+- Fear-based messaging ("If you don't do this, you'll be hacked!")
+- Overuse of buzzwords
+
+Sentence Structure:
+- Vary sentence length (mix short and medium, avoid very long)
+- Lead with the most important information
+- Use transitions for flow
+- One idea per sentence when possible
+
+================================================================================
+KEY MESSAGING THEMES
+================================================================================
+
+These themes should appear naturally in onboarding materials:
+
+1. Reliability
+   Phrase it like: "We're here when you need us"
+   Not like: "99.9% uptime guaranteed"
+   
+2. Proactivity
+   Phrase it like: "We catch problems before they affect your team"
+   Not like: "Our advanced monitoring solutions leverage AI"
+   
+3. Partnership
+   Phrase it like: "Your success is our success"
+   Not like: "We provide world-class IT services"
+   
+4. Expertise
+   Phrase it like: "Technology is complex, working with us isn't"
+   Not like: "We're certified experts with decades of experience"
+
+5. Responsiveness
+   Phrase it like: "When you reach out, we respond fast"
+   Not like: "Industry-leading SLAs and response times"
+
+================================================================================
+WELCOME EMAIL PHILOSOPHY
+================================================================================
+
+Purpose: Make new clients feel confident, informed, and excited
+
+Structure:
+1. Warm welcome (personal, use their name)
+2. Acknowledge their specific pain points or goals
+3. What makes us different (brief, relevant to them)
+4. Clear next steps (very specific)
+5. How to reach us (easy to find)
+6. Close with confidence and partnership
+
+Opening Lines (Examples):
+✓ "Welcome to [MSP_NAME]! We're excited to partner with [Company] and help you [specific goal from sales conversation]."
+✓ "Thanks for choosing [MSP_NAME]. We know [their pain point] has been frustrating, and we're here to change that."
+
+Closing Lines (Examples):
+✓ "We're already monitoring your systems and ready to help. Questions? We're just a call away."
+✓ "Looking forward to a great partnership. Your success matters to us."
+
+================================================================================
+LANGUAGE TO USE AND AVOID
+================================================================================
+
+PREFERRED WORDS/PHRASES:
+- "Partner" (not vendor, provider)
+- "Your team" (not users, endpoints)
+- "We'll" (not we will)
+- "Help desk" or "support team" (pick one, be consistent)
+- "Technology" (not IT unless explaining to technical audiences)
+- "Systems" (general term clients understand)
+- "Looking forward to..." (partnership language)
+
+WORDS TO AVOID:
+- "Clients" (say "you" when talking to them)
+- "Leverage" (use: use, apply, take advantage of)
+- "Solution" (overused - be specific about what you do)
+- "Ecosystem" (jargon - say environment or systems)
+- "Mission-critical" (say: essential or important)
+- "Seamless" (overused - say smooth or easy)
+- "Robust" (vague - be specific about what makes it good)
+- "State-of-the-art" (dated phrase)
+
+================================================================================
+TECHNICAL LANGUAGE GUIDELINES
+================================================================================
+
+When Technical Terms Are Necessary:
+- Define them simply the first time
+- Use analogies when helpful
+- Explain the "so what" (why it matters to them)
+
+Examples:
+✗ "We'll implement EDR with behavioral analysis"
+✓ "We'll install advanced security software that detects threats by watching for suspicious behavior, not just known viruses"
+
+✗ "Our RMM platform provides comprehensive monitoring"
+✓ "We monitor your systems 24/7 and get alerts if something's not right, so we can fix issues before you notice them"
+
+✗ "We'll configure your MFA"
+✓ "We'll set up two-factor authentication (the same way your bank confirms it's really you logging in)"
+
+================================================================================
+HANDLING SENSITIVE TOPICS
+================================================================================
+
+Previous IT Provider:
+- Never badmouth them
+- Acknowledge client's frustration professionally
+- Focus on how we'll be different
+
+Example:
+✗ "Your previous IT company was terrible"
+✓ "We know you've had challenges with IT support in the past. Here's how we approach things differently..."
+
+Security/Incidents:
+- Be direct but not alarmist
+- Focus on solutions and prevention
+- Build confidence
+
+Example:
+✗ "If you don't have proper security, hackers will destroy your business"
+✓ "We take security seriously because we know how much you depend on your technology. Here's how we protect you..."
+
+Cost/Pricing:
+- Connect to value, not just price
+- Be transparent
+- Focus on ROI and peace of mind
+
+Example:
+✗ "We're the cheapest option"
+✓ "For [price], you get [specific benefits that solve their problems]"
+
+================================================================================
+FORMATTING PREFERENCES
+================================================================================
+
+Email Structure:
+- Subject line: Clear and specific
+- Greeting: First name only (Hi Jennifer, not Hi Mrs. Martinez)
+- Opening: Get to the point in first sentence
+- Body: Use white space, bullets, short paragraphs
+- Close: Warm but professional
+- Signature: Name, title, contact info
+
+Use of Emphasis:
+- Bold: For section headers and key action items
+- Italics: Sparingly, for emphasis within sentences
+- ALL CAPS: Avoid (comes across as shouting)
+- Underline: Rarely (mainly for links)
+
+Lists and Bullets:
+- Use bullets for items without sequence
+- Use numbers for sequential steps
+- Keep parallel structure
+- Don't nest more than one level deep
+
+================================================================================
+EXAMPLES: GOOD VS. BAD
+================================================================================
+
+SCENARIO: Explaining 24/7 monitoring
+
+✗ BAD:
+"Our enterprise-grade RMM solution leverages advanced algorithms to provide comprehensive visibility across your entire IT ecosystem, enabling proactive remediation of potential issues before they impact business operations."
+
+✓ GOOD:
+"We watch your systems around the clock. If something starts to go wrong, we get an alert and can often fix it before it affects your team. Think of it like a smoke detector for your technology."
+
+---
+
+SCENARIO: Welcome email opening
+
+✗ BAD:
+"Dear Valued Client, We are pleased to inform you that your onboarding process has been initiated. Our world-class team of certified professionals will leverage our industry-leading platform to deliver best-in-class IT services."
+
+✓ GOOD:
+"Welcome to [MSP_NAME], Jennifer! We're excited to partner with Riverside Manufacturing. I know unreliable IT support has caused production delays in the past - that changes now."
+
+---
+
+SCENARIO: Describing response times
+
+✗ BAD:
+"Per your SLA, Priority 1 incidents will receive initial response within contractually obligated timeframes as documented in your Master Services Agreement."
+
+✓ GOOD:
+"If your business comes to a halt, we'll respond within 1 hour, 24/7. That's our commitment to you."
+
+================================================================================
+VOICE CONSISTENCY CHECKLIST
+================================================================================
+
+Before sending any onboarding material, ask:
+
+- [ ] Does this sound like a real person wrote it?
+- [ ] Would I talk this way in a face-to-face meeting?
+- [ ] Is it clear what the client should do next?
+- [ ] Did I use their name and company name?
+- [ ] Did I reference their specific situation or needs?
+- [ ] Is it free of jargon (or is jargon explained)?
+- [ ] Would someone outside IT understand this?
+- [ ] Does it feel partnership-focused, not transactional?
+- [ ] Is it scannable (bullets, short paragraphs, white space)?
+- [ ] Does it inspire confidence without being arrogant?
+
+================================================================================
+CUSTOMIZATION NOTES
+================================================================================
+
+This template provides a starting framework, but YOU need to make it yours:
+
+1. Replace example phrases with your actual communication style
+2. Add specific words/phrases your team naturally uses
+3. Include any industry-specific considerations
+4. Reference your company's unique differentiators
+5. Adjust tone based on your target client size/industry
+6. Add examples from your best client communications
+7. Get input from your team on what "sounds like us"
+
+The goal: Anyone reading AI-generated onboarding materials should feel like they came directly from your team, not a template.
